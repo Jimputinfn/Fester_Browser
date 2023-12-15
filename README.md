@@ -3,7 +3,9 @@
 Builds:<br />            
 – Windows builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases/tag/FesterBrowser2.3">FesterBrowser Win</a><br />
 – Android builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases/tag/FesterBrowser2.3">Coming Soon</a>
-
+<br />
+  <br />
+ Features<br />: HTML5, CSS3, JS, HTML5 Video, WebGL 3D, WebAssembly, etc.<br /> Tabbed browsing.<br /> Address bar (also opens Google).<br /> Back, Forward, Stop, Refresh.<br /> Clear Browser Data (Not Passwords),<br /> Developer tools.<br /> Search bar (also highlights all instances). Download manager (Doesnt Currently work).<br /> Custom context menu.<br /> Easily add vendor-specific branding, buttons or hotkeys.<br /> View online & offline webpages. 
 <br />   
 <br />   
 <em>This page is not finished yet</em><br />   
