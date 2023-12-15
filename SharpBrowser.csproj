@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <CefSharpAnyCpuSupport>true</CefSharpAnyCpuSupport>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <OutputPath>bin\</OutputPath>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>sharpbrowser-2-removebg-preview (1).ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>SharpBrowser.Program</StartupObject>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <PlatformTarget>x64</PlatformTarget>
+    <Title>FesterBrowser</Title>
+    <Version>2.3.0</Version>
+    <Authors>FesterBrowser</Authors>
+    <Company>Jimputin</Company>
+    <Product>FesterBrowser</Product>
+    <Description>Free and Private Browser made by jimputin</Description>
+    <AssemblyName>FesterBrowser</AssemblyName>
+    <PackageProjectUrl>https://festerbrowser.jimdofree.com/</PackageProjectUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="sharpbrowser-2-removebg-preview (1).ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Controls\BrowserTabStrip\BaseStyledPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\BrowserTabStrip\BrowserTabStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\BrowserTabStrip\BrowserTabStripItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\sharpbrowser.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CefSharp.Common" Version="106.0.260" />
+    <PackageReference Include="CefSharp.Common.NETCore" Version="106.0.260" />
+    <PackageReference Include="CefSharp.WinForms.NETCore" Version="106.0.260" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Web" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\bin\Debug\FesterBrowser.exe.config
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\bin\Debug\FesterBrowser.exe
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\bin\Debug\FesterBrowser.pdb
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.csproj.AssemblyReference.cache
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.Form1.resources
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.Properties.Resources.resources
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.csproj.GenerateResource.cache
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.exe
+C:\Users\Jimputin\Documents\FesterBrowser\FesterBrowser\obj\Debug\FesterBrowser.pdb
