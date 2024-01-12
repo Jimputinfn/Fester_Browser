@@ -9,7 +9,7 @@ Builds:<br />
   FesterBrowser is privacy focused browser made in C#.
   <br />
   <br />
- Features<br /> HTML5, CSS3, JS, HTML5 Video, WebGL 3D, WebAssembly, etc.<br /> Tabbed browsing.<br />Extensions By us (Next Update)<br /> Address bar (also opens Startpage).<br /> Back, Forward, Stop, Refresh.<br /> Clear Browser Data (Not Passwords),<br /> Developer tools.<br /> Search bar (also highlights all instances).<br />  Download manager (Doesnt Currently work).<br /> Custom context menu.<br /> Easily add vendor-specific branding, buttons or hotkeys.<br /> View online & offline webpages<br /> Update Center<br />. 
+ Features<br /> HTML5, CSS3, JS, HTML5 Video, WebGL 3D, WebAssembly, etc.<br /> Tabbed browsing.<br />Extensions By us (Uranotes)<br /> Address bar (also opens Startpage).<br /> Back, Forward, Stop, Refresh.<br /> Clear Browser Data (Not Passwords),<br /> Developer tools.<br /> Search bar (also highlights all instances).<br />  Download manager (Doesnt Currently work).<br /> Custom context menu.<br /> Easily add vendor-specific branding, buttons or hotkeys.<br /> View online & offline webpages<br /> Update Center<br />. 
 <br />   
 <br />   
 <em>This page is not finished yet</em><br />   
