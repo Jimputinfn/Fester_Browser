@@ -20,6 +20,7 @@ namespace SharpBrowser
             InitializeComponent();
         }
 
+        //this feature was supposed to kill the browser after certain amount of time like 10 mins  
         private void button1_Click(object sender, EventArgs e)
         {
             InitializeComponent();
