@@ -93,9 +93,7 @@ namespace SharpBrowser
 
         private void button4_Click_1(object sender, EventArgs e)
         {
-            AutokillWizard f2 = new AutokillWizard();
-            f2.Show();
-            this.Hide();
+        //this is not upcoming feature it was going to be but i didnt have time to do it.
 
         }
 
