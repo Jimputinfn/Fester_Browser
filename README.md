@@ -4,10 +4,12 @@ Builds:<br />
 – Windows builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases">FesterBrowser Windows By Jimputin</a><br />
 – Android builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases">By Uraneus Next release Phone versions are mady by jimputin </a>
 <br />   
+    <br />
   What FesterBrowser Is???
   <br />   
   FesterBrowser is privacy focused browser made in C#.
   <br />
+    <br />
    How to do adblocking:
   <br />   
   If you are using phone version of the browser change your dns to dns.adguard-dns.com and if you are using windows version of the browser change your dns to this: 94.140.14.14 and 94.140.15.15 
