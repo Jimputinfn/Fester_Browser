@@ -44,7 +44,7 @@
             label1.Name = "label1";
             label1.Size = new System.Drawing.Size(309, 15);
             label1.TabIndex = 0;
-            label1.Text = "FesterBrowser 2.2 Beta: This Project is made by Jimputin.  ";
+            label1.Text = "FesterBrowser 2.2 Beta: This Project is made by Jimputin.";
             // 
             // label2
             // 
