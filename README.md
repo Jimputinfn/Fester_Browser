@@ -1,8 +1,8 @@
 <h1>Welcome To FesterBrowser's Official Github Page!<h1>
 <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x10000:format=png/path/s794d6cfdb8536537/image/iba1b4c3c7394cc2a/version/1701467466/image.png" style="max-width: 100%;"><br />
 Builds:<br />            
-– Windows builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases">FesterBrowser Windows By Jimputin</a><br />
-– Android builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases">By Uraneus  </a>
+– Windows builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases">By Jimputin</a><br />
+– Android builds are here > <a href="https://github.com/Jimputinfn/FesterBrowser/releases">By Uraneus </a>
 <br />   
     <br />
   What FesterBrowser Is???
